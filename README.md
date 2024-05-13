@@ -1,30 +1,20 @@
 # Project Responsive Web Design using Bootstrap
 ## Date:
-
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
-
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
-
 ### Step 2:
 Create Django Admin project.
-
 ### Step 3:
 Create a New App under the Django Admin project.
-
 ### Step 4:
 Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
-
 ### Step 5:
 Create a HTML file and include the needed Bootstrap components.
-
 ### Step 6:
 Publish the website in the LocalHost.
-
 ## PROGRAM :
 ### pharma.html
 ```
@@ -42,7 +32,6 @@ Publish the website in the LocalHost.
             justify-content: space-between;
             align-items: center;
         }
-        
         .logo {
             width: 100px; 
         }
@@ -52,7 +41,6 @@ Publish the website in the LocalHost.
             margin: 0;
             padding: 0;
         }
-        
         nav ul li {
             display: inline;
             margin-right: 20px;
@@ -62,7 +50,6 @@ Publish the website in the LocalHost.
             justify-content: space-around;
             margin-top: 20px;
         }
-        
         .card {
             width: 200px;
             padding: 10px;
@@ -71,7 +58,6 @@ Publish the website in the LocalHost.
             border-radius: 5px;
             text-align: center;
         }
-        
         .card img {
             max-width: 100%;
             border-radius: 5px;
@@ -131,18 +117,13 @@ Publish the website in the LocalHost.
             <button>Read More</button>
         </div>
     </div>
-
     <footer>
         Designed and Developed by Jai Pradhiksha D P @ 2024
     </footer>
 </body>
 </html>
-
 ```
-
 ## OUTPUT:
 ![image](https://github.com/Jai-Pradhiksha/Pharma/assets/100289733/e626eda5-28ca-4bdc-9c1e-bc0d9ca04679)
-
-
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
